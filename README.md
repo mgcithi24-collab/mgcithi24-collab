@@ -3,8 +3,7 @@
 **`Economics & Computer Science Student | Building Solutions at the Intersection of Markets & Technology`**
 
 
-I’m Malou — a builder who turns ideas into technical solutions.  
-My projects are either curiosity driven or a desire to automate real-world problems with well crafted planning, thoughtful design, and practical implementation.
+I'm Malou. I study economics and computer science. My interest lies at the intersection of the market and technology. All my coding projects are either curiosity-driven or leverage technology to automate, spanning from ideation to implementation and real-world business problems. Planning and design are the code of my works. I am a tech enthusiast eager to learn about new technologies
 
 
 ### 🔭 What I'm Working On
