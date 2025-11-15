@@ -3,7 +3,8 @@
 **`Economics & Computer Science Student | Building Solutions at the Intersection of Markets & Technology`**
 
 
-I'm Malou. I study economics and computer science. My interest lies at the intersection of the market and technology. All my coding projects are either curiosity-driven or leverage technology to automate, spanning from ideation and planning to real-world business solutions. Well-crafted ideas and design are the code of my work. I am a tech enthusiast eager to learn about new technologies. 
+
+I'm Malou. I study economics and computer science. My interest lies at the intersection of the market and technology. All my coding projects are either curiosity-driven or leverage technology to automate, spanning from ideation and planning to real-world business solutions. Well-crafted ideas and design are the code of my work. I am a tech enthusiast eager to learn about new technologies. At this corner of the internet, I want to build my present one step at a time 
 
 ---
 ### 🔭 What I'm Working On
