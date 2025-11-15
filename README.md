@@ -1,11 +1,11 @@
-# 🏄‍♂️ CithiecTheboy
-
+# 🏄‍♂️ Malou Cithiec
+---
 **`Economics & Computer Science Student | Building Solutions at the Intersection of Markets & Technology`**
 
 
-I'm Malou. I study economics and computer science. My interest lies at the intersection of the market and technology. All my coding projects are either curiosity-driven or leverage technology to automate, spanning from ideation to implementation and real-world business problems. Planning and design are the code of my works. I am a tech enthusiast eager to learn about new technologies
+I'm Malou. I study economics and computer science. My interest lies at the intersection of the market and technology. All my coding projects are either curiosity-driven or leverage technology to automate, spanning from ideation and planning to real-world business solutions. Well-crafted ideas and design are the code of my work. I am a tech enthusiast eager to learn about new technologies. 
 
-
+---
 ### 🔭 What I'm Working On
 - 🎧 Building an **end-to-end audio processing pipeline** (feature extraction → modeling)
 - 🤖 Exploring **machine learning systems**, automation tools, and data workflows  
@@ -34,7 +34,7 @@ I'm Malou. I study economics and computer science. My interest lies at the inter
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+ 
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
@@ -44,11 +44,13 @@ I'm Malou. I study economics and computer science. My interest lies at the inter
 
 
 ### 🚀 About Me 
+---
 - 💡 I combine **economics thinking + computational tools** to solve technical problems  
 - 🧩 I enjoy breaking down complex systems and automating workflows  
 - 🧭 I design before I code — clarity first, execution second  
 - 🌍 Founder of an education-access initiative improving digital literacy  
 - 🏀 Outside of tech: basketball, wellness, community projects
+- --
 
 .
 
